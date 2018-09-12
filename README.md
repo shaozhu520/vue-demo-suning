@@ -3,6 +3,7 @@
 Github地址：https://github.com/shaozhu520/vue-demo-suning
 作者微信：shaozhu124
 by 小义
+
 使用了：node.js/Vue-cli/axios/Vuex/vue-router/mint-ui
 
 
@@ -15,6 +16,7 @@ by 小义
 个人中心
 
 由于时间伧俗，有些功能并没有去完善
+但是用到的东西还是很多的，比如node,vuex,axios,mint-ui的懒加载等
 分类取的是真实的数据，登录注册也是真实请求
 其它功能后期完整中
 
